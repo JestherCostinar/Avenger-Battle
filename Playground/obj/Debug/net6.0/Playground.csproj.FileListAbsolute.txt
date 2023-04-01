@@ -1,0 +1,15 @@
+C:\Users\Jesther\OneDrive\Documents\C#\Playground\Playground\bin\Debug\net6.0\Playground.exe
+C:\Users\Jesther\OneDrive\Documents\C#\Playground\Playground\bin\Debug\net6.0\Playground.deps.json
+C:\Users\Jesther\OneDrive\Documents\C#\Playground\Playground\bin\Debug\net6.0\Playground.runtimeconfig.json
+C:\Users\Jesther\OneDrive\Documents\C#\Playground\Playground\bin\Debug\net6.0\Playground.dll
+C:\Users\Jesther\OneDrive\Documents\C#\Playground\Playground\bin\Debug\net6.0\Playground.pdb
+C:\Users\Jesther\OneDrive\Documents\C#\Playground\Playground\obj\Debug\net6.0\Playground.csproj.AssemblyReference.cache
+C:\Users\Jesther\OneDrive\Documents\C#\Playground\Playground\obj\Debug\net6.0\Playground.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jesther\OneDrive\Documents\C#\Playground\Playground\obj\Debug\net6.0\Playground.AssemblyInfoInputs.cache
+C:\Users\Jesther\OneDrive\Documents\C#\Playground\Playground\obj\Debug\net6.0\Playground.AssemblyInfo.cs
+C:\Users\Jesther\OneDrive\Documents\C#\Playground\Playground\obj\Debug\net6.0\Playground.csproj.CoreCompileInputs.cache
+C:\Users\Jesther\OneDrive\Documents\C#\Playground\Playground\obj\Debug\net6.0\Playground.dll
+C:\Users\Jesther\OneDrive\Documents\C#\Playground\Playground\obj\Debug\net6.0\refint\Playground.dll
+C:\Users\Jesther\OneDrive\Documents\C#\Playground\Playground\obj\Debug\net6.0\Playground.pdb
+C:\Users\Jesther\OneDrive\Documents\C#\Playground\Playground\obj\Debug\net6.0\Playground.genruntimeconfig.cache
+C:\Users\Jesther\OneDrive\Documents\C#\Playground\Playground\obj\Debug\net6.0\ref\Playground.dll
