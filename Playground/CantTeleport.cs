@@ -1,0 +1,16 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Playground
+{
+    class CantTeleport : Teleport
+    {
+        public string Teleport()
+        {
+            return "Fails to teleport";
+        }
+    }
+}
